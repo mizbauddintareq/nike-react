@@ -32,12 +32,12 @@ ul li a {
   letter-spacing: 1px;
   line-height: 1.7;
 }
-.hero-banner button {
+.main-btn {
   width: 170px;
   height: 60px;
   background: linear-gradient(#3d4ff3 100%, #ffffff 100%);
 }
-.hero-banner button i {
+.main-btn i {
   font-weight: bold;
   color: white;
   margin-right: 5px;
@@ -45,6 +45,27 @@ ul li a {
 /* Header Styles Ends */
 
 /* Main Styles Starts */
+.card-image {
+  background: #f1f1f1;
+}
+section h1 {
+  color: #363958;
+  text-transform: uppercase;
+  font-family: "Bebas Neue", cursive;
+  font-size: 48px;
+  font-weight: 700;
+}
+.product h5 {
+  color: #363958;
+}
+.product h3 {
+  color: #fa804c;
+}
+
+.faq-img img {
+  /* width: 78px;
+  height: 82px; */
+}
 /* Main Styles Ends */
 
 /* Footer Styles Ends */
