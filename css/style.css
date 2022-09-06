@@ -1,0 +1,25 @@
+/* Google Fonts Starts */
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@300;400;500&display=swap");
+/* Google Fonts Ends */
+
+/* Utilities Styles Starts */
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* Utilities Styles Ends */
+
+/* Header Styles Starts */
+header {
+  background: #fff9f4;
+}
+.logo img {
+  width: 291.11px;
+  height: 39.27px;
+}
+/* Header Styles Ends */
+
+/* Main Styles Starts */
+/* Main Styles Ends */
+
+/* Footer Styles Ends */
+/* Footer Styles Ends */
