@@ -12,9 +12,35 @@ body {
 header {
   background: #fff9f4;
 }
+ul li a {
+  color: #3c3c3c;
+}
 .logo img {
   width: 291.11px;
   height: 39.27px;
+}
+.hero-banner h1 {
+  font-size: 80px;
+  color: #363958;
+  font-family: "Bebas Neue", cursive;
+}
+.hero-banner span {
+  color: #fa804c;
+}
+.hero-banner p {
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 1.7;
+}
+.hero-banner button {
+  width: 170px;
+  height: 60px;
+  background: linear-gradient(#3d4ff3 100%, #ffffff 100%);
+}
+.hero-banner button i {
+  font-weight: bold;
+  color: white;
+  margin-right: 5px;
 }
 /* Header Styles Ends */
 
